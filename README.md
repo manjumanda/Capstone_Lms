@@ -47,7 +47,6 @@ npm install
 ```bash
 npm start
 ```
-4. Open your browser and navigate to `http://localhost:3000` to use the LMS.
 
 ## Usage
 - **Admin:** Manage courses and users  
